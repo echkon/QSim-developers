@@ -1,5 +1,5 @@
 # QSim-developer
-QSim: A Quantum computor Simulation code
+QSim: A Quantum computer Simulation code
 
 QSim is open-source software for simulating a quantum computer. 
 The QSim library depends on the  Numpy and Scipy numerical packages. 
