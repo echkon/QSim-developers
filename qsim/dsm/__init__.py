@@ -1,4 +1,4 @@
-# This file is a part of QSim: Quantum computor Simulation code.
+# This file is a part of QSim: Quantum computer Simulation code.
 # Copyright (c) 2019 and later
 # Authors: Binho Le
 # All rights reserved.
